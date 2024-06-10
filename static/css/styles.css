@@ -1,0 +1,22 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#playlist {
+    list-style-type: none;
+    padding: 0;
+}
+
+#playlist li {
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}
